@@ -1,0 +1,38 @@
+ body {
+    background-color:rgb(183, 220, 225);
+    font-family: Times, serif;
+    color: black;
+    text-align: center;
+    margin-left:10%;
+    margin-right: 10%;
+}
+
+a {
+    color:darkcyan;
+}
+
+.myphoto {
+    border-radius: 50%;
+    height: auto;
+    width: 25%;
+}
+.box {
+    background-color: rgb(209, 199, 175);
+    box-shadow:  3px 2px 5px rgba(0, 0, 0, 0.5);
+    padding: 3%;
+    box-sizing: border-box;
+    text-align:left;
+    margin: 3%
+}
+
+.footer-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: right;
+}
+
+.link{
+    display: inline;
+}
